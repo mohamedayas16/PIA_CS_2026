@@ -7,8 +7,8 @@ type: software
 title: "Scientific Computing - Final Integrative Project"
 
 authors:
-  - family-names: "MOHAMED_KASIM"
-    given-names: "MOHAMED_AYAS"
+  - family-names: "MOHAMED KASIM"
+    given-names: "MOHAMED AYAS"
     affiliation: "Universidad Autónoma de Nuevo León"
 
 abstract: "A reproducible scientific computing project integrating API data acquisition, Python processing, and Power BI analysis."
