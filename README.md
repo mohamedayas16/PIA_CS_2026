@@ -1,6 +1,3 @@
-# PIA_CS_2026
-Final Integrative Project (PIA) for Scientific Computing, UANL FCFM, 2026.
-
 # Scientific Computing — Final Integrative Project (PIA)
 
 **Universidad Autónoma de Nuevo León (UANL)**  
