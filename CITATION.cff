@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+message: "If you use this project, please cite it using these metadata."
+
+type: software
+
+title: "Scientific Computing - Final Integrative Project"
+
+authors:
+  - family-names: "MOHAMED_KASIM"
+    given-names: "MOHAMED_AYAS"
+    affiliation: "Universidad Autónoma de Nuevo León"
+
+abstract: "A reproducible scientific computing project integrating API data acquisition, Python processing, and Power BI analysis."
